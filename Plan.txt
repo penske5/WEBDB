@@ -16,3 +16,6 @@ database名　　　　　table名　
 
 接続時
 1.データベースから記事を読み込み時間順に表示し、Unix時を現在時刻に起こす。(HTML,Java,MySQL,javascript)
+
+
+////////////////////
